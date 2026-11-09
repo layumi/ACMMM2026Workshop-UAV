@@ -66,11 +66,11 @@ Please note: The submission deadline is at 11:59 p.m. of the stated deadline dat
 
 ## Workshop Schedule (14/11/2026 at Room Oceania V)
 
-14:00 - 14:10  Opening & Challenge Report (Fabian Deuser)
+14:00 - 14:10 Opening & Challenge Report (Fabian Deuser)
 
-14:10 - 14:50  Prof. Martin Werner
+14:10 - 14:50 Prof. Martin Werner (TU München)
 
-14:50 - 15:40 TBD
+14:50 - 15:40 Prof. Chen Chen (University of Central Florida)
 
 15:40 - 16:00 Coffee break
 
