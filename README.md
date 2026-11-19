@@ -53,16 +53,19 @@ Please note: The submission deadline is at 11:59 p.m. of the stated deadline dat
 **Topic:** ACM MM 2026 Workshop — *UAVs in Multimedia: Capturing the World from a New Perspective*  
 **Time:** Nov 14, 2026 · 14:00 PM Rio de Janeiro
 
-**Join Zoom Meeting:**  
-[https://unibw.zoom-x.de/j/65607478494?pwd=GSdWwjTbPfPFQbGrD25cSMJnB5Tv5t.1](https://unibw.zoom-x.de/j/65607478494?pwd=GSdWwjTbPfPFQbGrD25cSMJnB5Tv5t.1)
+~~**Join Zoom Meeting:**&#8203;~~
+~~[https://unibw.zoom-x.de/j/65607478494?pwd=GSdWwjTbPfPFQbGrD25cSMJnB5Tv5t.1](https://unibw.zoom-x.de/j/65607478494?pwd=GSdWwjTbPfPFQbGrD25cSMJnB5Tv5t.1)~~
+~~**Meeting ID:**&#8203; 656 0747 8494~~
+~~**Passcode:**&#8203; 234788~~
+~~**Join Instructions:**&#8203;~~
+~~[https://unibw.zoom-x.de/meetings/65607478494/invitations?signature=Qs2vhQLLpGJIRwF_KHfVoM2Jj-2vSj0DD67XZnsnGng](https://unibw.zoom-x.de/meetings/65607478494/invitations?signature=Qs2vhQLLpGJIRwF_KHfVoM2Jj-2vSj0DD67XZnsnGng)~~
 
-**Meeting ID:** 656 0747 8494
-**Passcode:** 234788
+**Recording:**&#8203;
 
-**Join Instructions:**  
-[https://unibw.zoom-x.de/meetings/65607478494/invitations?signature=Qs2vhQLLpGJIRwF_KHfVoM2Jj-2vSj0DD67XZnsnGng
-](https://unibw.zoom-x.de/meetings/65607478494/invitations?signature=Qs2vhQLLpGJIRwF_KHfVoM2Jj-2vSj0DD67XZnsnGng
-)
+**YouTube:**&#8203; [https://www.youtube.com/watch?v=eDl1MmedM4M](https://www.youtube.com/watch?v=eDl1MmedM4M)
+
+**Bilibili:**&#8203; [https://www.bilibili.com/video/BV1hwsQ6FESy/](https://www.bilibili.com/video/BV1hwsQ6FESy/)
+
 
 ## Workshop Schedule (14/11/2026 at Room Oceania V)
 
